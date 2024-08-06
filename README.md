@@ -1,5 +1,3 @@
 # Tree-Visualizer
 
-A simple website to understand the formation tricky binary trees, BST and max heaps in tree data structure.
-changes in main.
-
+A simple website to understand the formation tricky binary trees, Binary Search Trees and max heaps in tree data structure.
